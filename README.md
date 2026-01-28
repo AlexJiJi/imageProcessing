@@ -1,35 +1,36 @@
+# Working with images in Python
 Hello!! <br>
-Welcome to my first repo!<br>
-These are some projects from an Image Processing course. They are small, useful programs that helped me as a guide with a lot of fundamental information about image processing in Python.
-
+Welcome to my first repo<br>
+These are some projects from an Image Processing course. They are small, useful programs that helped me as a guide with a lot of fundamental information about image processing in **Python** and **PIL** library. 
   <hr>
+  <br>
 
-**Project Goals** <br>
-  -Apply basic concepts of digital image processing. <br>
-  -Image manipulation using standard Python libaries. <br>
-  -Work with different color modes and image formats. <br>
-  -Visually analyze the results of the transformations performed.<br>
+## **Project Goals** <br>
+  - Apply basic concepts of digital image processing.
+  - Image manipulation using standard Python libaries. 
+  - Work with different color modes and image formats. 
+  - Visually analyze the results of the transformations performed.
   
-**Technologies Used** <br>
-  -Python 3 <br>
-  -PIL (Pillow): Used for loading, manipulating, and converting images. <br>
-  -Matplotlib: Used for visualizing images and results. <br>
-  -Spyder IDE: Development environment used for code implementation and testing. <br>
+## **Technologies Used**
+  - Python 3.
+  - PIL (Pillow): Used for loading, manipulating, and converting images.
+  - Matplotlib: Used for visualizing images and results.
+  - Spyder IDE: Development environment used for code implementation and testing.
 
-**Types of Images Used** <br>
-During the practical sessions, we worked with images in different color modes, including: <br>
-  -RGB (Red, Green, Blue) <br>
-  -RGBA (RGB with alpha channel) <br>
-  -CMYK (Cyan, Magenta, Yellow, Black) <br>
-  -YCbCr (Luminance and Chrominance) <br>
-These formats allowed us to analyze how visual information is represented and processed in different color spaces. <br>
+## **Types of Images Used**
+During the practical sessions, we worked with images in different color modes, including:
+  - RGB (Red, Green, Blue).
+  - RGBA (RGB with alpha channel).
+  - CMYK (Cyan, Magenta, Yellow, Black).
+  - YCbCr (Luminance and Chrominance).
+These formats allowed us to analyze how visual information is represented and processed in different color spaces. 
 
-**Repository Content** <br>
-The repository includes scripts that perform tasks such as: <br>
-  -Image loading and display <br>
-  -Conversion between different color modes <br>
-  -Pixel manipulation <br>
-  -Color channel separation <br>
-  -Visual analysis of results <br>
-Each file corresponds to a separate exercise or practice within the course. <br>
+## **Repository Content** 
+The repository includes scripts that perform tasks such as: 
+  - Image loading and display.
+  - Conversion between different color modes.
+  - Pixel manipulation.
+  - Color channel separation.
+  - Visual analysis of results.
+Each file corresponds to a separate exercise or practice within the course. 
 
